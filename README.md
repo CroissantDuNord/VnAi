@@ -1,4 +1,6 @@
-# VnAi ()
+# VnAi
+![image](https://github.com/CroissantDuNord/VnAi/assets/79372025/fcf44140-6d79-4bad-9a05-e7f47f83dc79)
+
 An experimental AI based visual novel. Also just a way for me to learn pygame and the "OpenAI" (With Local Model) API
 
 # Why
